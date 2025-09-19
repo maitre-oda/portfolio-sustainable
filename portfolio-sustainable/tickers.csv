@@ -1,0 +1,21 @@
+Ticker,Company,Sector
+AIR.PA,Airbus,Industrials
+SIE.DE,Siemens,Industrials
+ALV.DE,Allianz,Financials
+TTE.PA,TotalEnergies,Energy
+ENI.MI,Eni,Energy
+SAP.DE,SAP,Technology
+ASML.AS,ASML,Technology
+NESN.SW,Nestlé,Consumer Staples
+OR.PA,L'Oréal,Consumer Staples
+ABI.BR,AB InBev,Consumer Staples
+BNP.PA,BNP Paribas,Financials
+SAN.MC,Banco Santander,Financials
+UBSG.SW,UBS,Financials
+ENEL.MI,Enel,Utilities
+RWE.DE,RWE,Utilities
+MC.PA,LVMH,Consumer Discretionary
+AI.PA,Air Liquide,Materials
+DG.PA,Vinci,Industrials
+ITX.MC,Inditex,Consumer Discretionary
+NOVN.SW,Novartis,Health Care

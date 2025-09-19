@@ -1,0 +1,21 @@
+Ticker,Company,Sector,CO2_intensity,SBTi_status
+AIR.PA,Airbus,Industrials,100,Committed
+SIE.DE,Siemens,Industrials,100,Targets Set
+ALV.DE,Allianz,Financials,15,Committed
+TTE.PA,TotalEnergies,Energy,300,No Commitment
+ENI.MI,Eni,Energy,300,Committed
+SAP.DE,SAP,Technology,20,Targets Set
+ASML.AS,ASML,Technology,20,Committed
+NESN.SW,Nestlé,Consumer Staples,40,Targets Set
+OR.PA,L'Oréal,Consumer Staples,40,Committed
+ABI.BR,AB InBev,Consumer Staples,40,Committed
+BNP.PA,BNP Paribas,Financials,15,Targets Set
+SAN.MC,Banco Santander,Financials,15,Committed
+UBSG.SW,UBS,Financials,15,Targets Set
+ENEL.MI,Enel,Utilities,250,Committed
+RWE.DE,RWE,Utilities,250,No Commitment
+MC.PA,LVMH,Consumer Discretionary,60,Committed
+AI.PA,Air Liquide,Materials,150,Committed
+DG.PA,Vinci,Industrials,100,Committed
+ITX.MC,Inditex,Consumer Discretionary,60,Targets Set
+NOVN.SW,Novartis,Health Care,25,Committed
